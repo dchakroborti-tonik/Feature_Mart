@@ -34,7 +34,7 @@ feature-mart/
 ├── metadata/              # Feature documentation and lineage
 ├── tests/                 # Unit and integration tests
 ├── notebooks/             # Exploratory analysis and feature validation
-|-- Queries
+├── Queries
 └── README.md              # Project overview and setup instructions
 ```
 
